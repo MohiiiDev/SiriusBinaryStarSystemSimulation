@@ -1,0 +1,9 @@
+## Requirements
+
+### Python
+Python 3.13.15 or newer
+
+### Libraries
+- moderngl==5.13.0
+- numpy==2.5.3
+- pygame==2.6.1
