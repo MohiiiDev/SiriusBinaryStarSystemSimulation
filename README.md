@@ -1,6 +1,4 @@
-=====================
-BINARY STAR SYSTEM SIMULATION
-=============================
+INARY STAR SYSTEM SIMULATION
 
 A real-time 3D simulation of the Sirius binary star system, built with Python, ModernGL, NumPy, and Pygame.
 
