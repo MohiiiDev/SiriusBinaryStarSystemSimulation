@@ -107,7 +107,7 @@ Make sure Python and all required libraries are installed before starting the si
 
 **Option 2: Run the executable**
 
-Navigate to the `dist` folder and double-click the `.exe` file to launch the simulation directly, without having to run the Python script manually.
+Click on the first release. Then download the `.exe` file I put in. Its a executable `.exe` file, so you don't need python for this.
 
 
 REQUIREMENTS
